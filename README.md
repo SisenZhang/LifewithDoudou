@@ -14,10 +14,13 @@
 一、生活记录
 二、李豆豆的编辑
 三、张祥的日记
+四、编辑网站的基本操作
 ```
 # 一、生活记录
 
+
 # 二、李豆豆的编辑
+
 
 # 三、My life with Doudou
 ### 20201129
@@ -35,51 +38,21 @@
 可能是我没有处理好吧，
 我其实也挺困惑！
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SisenZhang/SisenReposity/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SisenZhang/SisenReposity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-
-
-
+# 编辑网站的基本操作
+- 你是最漂亮的
+- 你是最善良的
+1. 你是最可爱的
+2. 你是最能干的
+**李豆豆最可爱**（加粗）
+_（斜体开始）李豆豆天下无敌(斜体结束）_
+'我爱你'李豆豆
+(创建表格)
+                结婚登记表
+      日期    |      姓名         |   结婚登记人
+-----------  | -------------     | ------------
+20201129     | LImeiWangqiang    |  LILeilei
+2022724      |  LiYuXinZhangXiang|  Lileilei
+（创建链接）
+[编辑的地方](https://github.com/SisenZhang/SisenReposity/edit/main/README.md)
+[网页图片]（https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%99%BD%E9%B9%BF%E5%8E%9F&step_word=&hs=0&pn=47&spn=0&di=2640&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1124183318%2C1828623728&os=28166511%2C711077791&simid=3454783944%2C436103829&adpicid=0&lpn=0&ln=1469&fr=&fmq=1606653688639_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimages.china.cn%2Fattachement%2Fjpg%2Fsite1007%2F20170401%2F8c89a590f56c1a49aaed10.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bvitgw_z%26e3B562_z%26e3BvgAzdH3FvitgjfjAzdH3Fda80-a9AzdH3Fa8AzdH3Fv5gpjgp_9ac99dn8_d_z%26e3Bip4&gsm=30&rpstart=0&rpnum=0&islist=&querylist=&force=undefined）
+更多内容观看 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
