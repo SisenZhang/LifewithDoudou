@@ -15,9 +15,9 @@
 二、李豆豆的编辑
 三、张祥的日记
 ```
-#一、生活记录
+# 一、生活记录
 
-#二、李豆豆的编辑
+# 二、李豆豆的编辑
 
 # 三、My life with Doudou
 ### 20201129
@@ -45,6 +45,11 @@
 
 
 
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SisenZhang/SisenReposity/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -56,12 +61,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
