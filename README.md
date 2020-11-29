@@ -67,7 +67,8 @@ _（斜体开始）李豆豆天下无敌(斜体结束）_
 [网页]（https://github.com/SisenZhang/SisenReposity/edit/main/README.md）
 
 （上传图片，将图片在github上上传，然后在这里引用网址）
-![图片]（https://github.com/SisenZhang/SisenReposity/blob/SisenZhang-Picture/1.jpg)
+
+![image](https://github.com/SisenZhang/SisenReposity/blob/SisenZhang-Picture/%E7%8E%8B%E8%8F%B2%E6%A1%8C%E9%9D%A2.png)
 
 更多内容观看 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
