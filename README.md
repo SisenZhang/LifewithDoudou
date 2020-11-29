@@ -65,10 +65,7 @@ _（斜体开始）李豆豆天下无敌(斜体结束）_
 [编辑的地方](https://github.com/SisenZhang/SisenReposity/edit/main/README.md)
 [网页]（https://github.com/SisenZhang/SisenReposity/edit/main/README.md）
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-！[Yaktocat的图像]（https://octodex.github.com/images/yaktocat.png）
+[Yaktocat的图像]（https://octodex.github.com/images/yaktocat.png）
 
 更多内容观看 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
