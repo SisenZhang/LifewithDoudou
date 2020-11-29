@@ -37,3 +37,4 @@
 可能是我没有处理好吧，
 我其实也挺困惑！
 ```
+![1](https://github.com/SisenZhang/LifewithDoudou/blob/main/image2/1.jpg)
