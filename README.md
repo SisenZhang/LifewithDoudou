@@ -55,7 +55,8 @@ _（斜体开始）李豆豆天下无敌(斜体结束）_
 '我爱你'李豆豆
 
 (创建表格)
-               | 结婚登记表|
+                结婚登记表
+-----------  | -------------     | ------------
       日期    |      姓名         |   结婚登记人
 -----------  | -------------     | ------------
 20201129     | LImeiWangqiang    |  LILeilei
@@ -65,7 +66,8 @@ _（斜体开始）李豆豆天下无敌(斜体结束）_
 [编辑的地方](https://github.com/SisenZhang/SisenReposity/edit/main/README.md)
 [网页]（https://github.com/SisenZhang/SisenReposity/edit/main/README.md）
 
-[Yaktocat的图像]（https://octodex.github.com/images/yaktocat.png）
+（上传图片，将图片在github上上传，然后在这里引用网址）
+![图片]（https://github.com/SisenZhang/SisenReposity/blob/SisenZhang-Picture/1.jpg)
 
 更多内容观看 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
