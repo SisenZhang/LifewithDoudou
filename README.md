@@ -42,11 +42,9 @@
 
 - 你是最漂亮的
 
-- 你是最善良的
 
 1. 你是最可爱的
 
-2. 你是最能干的
 
 **李豆豆最可爱**（加粗）
 
@@ -55,15 +53,17 @@ _（斜体开始）李豆豆天下无敌(斜体结束）_
 '我爱你'李豆豆
 
 (创建表格)
+
                 结婚登记表
 -----------  | -------------     | ------------
-      日期    |      姓名         |   结婚登记人
------------  | -------------     | ------------
+      日期   |      姓名         |   结婚登记人
 20201129     | LImeiWangqiang    |  LILeilei
 2022724      |  LiYuXinZhangXiang|  Lileilei
 
 （创建链接）
+
 [编辑的地方](https://github.com/SisenZhang/SisenReposity/edit/main/README.md)
+
 [网页]（https://github.com/SisenZhang/SisenReposity/edit/main/README.md）
 
 （上传图片，将图片在github上上传，然后在这里引用网址）
