@@ -48,5 +48,6 @@
 不被别人左右，
 做一个更好的自己！
 2020
+```
 
 ![1](https://github.com/SisenZhang/LifewithDoudou/blob/main/image2/1.jpg)
